@@ -2,7 +2,7 @@
 
 ## 身份 / $\texttt{Identity}$
 
-### 淘卧 / $\texttt{Gemmer\ \&\ Spy}$
+### 淘卧 / $\texttt{Gemmer\ \\&\ Spy}$
 
 - **淘金客 / $\texttt{Gemmer}$**
 
